@@ -1,0 +1,4 @@
+django 2.2
+pip3 install misaka
+pip3 install django-bootstrap3
+pip3 install django-braces
